@@ -1,6 +1,6 @@
 # 备注
 
-[郎家岭伯爵](langjialing.com)的博客，基于Halo开发，感谢Halo团队的开发。
+[郎家岭伯爵](https://langjialing.com)的博客，基于Halo开发，感谢Halo团队的开发。
 
 -----------------------------
 <p align="center">
