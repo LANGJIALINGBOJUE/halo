@@ -1,3 +1,8 @@
+# 备注
+
+[郎家岭伯爵](langjialing.com)的博客，基于Halo开发，感谢Halo团队的开发。
+
+-----------------------------
 <p align="center">
     <a href="https://halo.run" target="_blank" rel="noopener noreferrer">
         <img width="100" src="https://halo.run/logo" alt="Halo logo" />
@@ -21,10 +26,6 @@
 </p>
 
 ------------------------------
-
-# 备注
-
-[郎家岭伯爵](langjialing.com)的博客，基于Halo开发，感谢Halo团队的开发。
 
 ## 快速开始
 
