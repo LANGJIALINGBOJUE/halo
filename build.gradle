@@ -43,7 +43,7 @@ configurations.all {
 }
 
 bootJar {
-    version("v1.6.2")
+    version("1.6.3")
     manifest {
         attributes "Implementation-Title": "Halo Application",
                 "Implementation-Version": archiveVersion
